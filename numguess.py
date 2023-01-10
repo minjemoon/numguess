@@ -12,3 +12,4 @@ if answer == guess_answer:
     print("{}가 맞습니다.".format(guess_answer))
 else:
     print("틀렸습니다.")
+    print("정답은 {}입니다.".format(answer))
